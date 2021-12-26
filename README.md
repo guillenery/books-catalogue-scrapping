@@ -1,5 +1,7 @@
 This project is to exercise some skills in web scrapping using python.
 
+![cafezinho](https://user-images.githubusercontent.com/66270476/147421996-e823f1a9-1bd8-473a-b3f9-8b59dd1ac5d6.jpg)
+
 
 ## 📚 1. Business Context
 
@@ -28,8 +30,6 @@ Coffee&Cookies needs to decide what books to deliver next to their subscribers, 
 The customer asked for the raw information as it will be used later for further analysis.
 
 - ***.csv file with the information**
-
-I got an example here to illustrate the information I will go after.
 
 A table will be created containing the following information:
 
