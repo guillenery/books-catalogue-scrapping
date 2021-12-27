@@ -1,0 +1,58 @@
+,scrap_time,book_title,book_category,book_upc,book_price,book_stars,book_in_stock,nr_available
+0,2021-12-27 16:59:09,Candide,Classics,2798974abc8a58a8,58.63,3,In stock ,4
+1,2021-12-27 16:59:09,Emma,Classics,2e69730561ed70ad,32.93,2,In stock ,1
+2,2021-12-27 16:59:09,The Metamorphosis,Classics,93379e3a2072a01b,28.58,1,In stock ,5
+3,2021-12-27 16:59:09,The Pilgrim's Progress,Classics,6053ddf69c967d5f,50.26,2,In stock ,4
+4,2021-12-27 16:59:09,Alice in Wonderland (Alice's Adventures in Wonderland #1),Classics,cd2a2a70dd5d176d,55.53,1,In stock ,1
+5,2021-12-27 16:59:09,Little Women (Little Women #1),Classics,deda806b68b0aa11,28.07,4,In stock ,4
+6,2021-12-27 16:59:09,The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]),Classics,cad70d6ffd53912f,26.78,4,In stock ,3
+7,2021-12-27 16:59:09,Sense and Sensibility,Classics,35e44170702139a4,37.46,1,In stock ,1
+8,2021-12-27 16:59:09,The Picture of Dorian Gray,Classics,b9f6305a3d650e2c,29.70,2,In stock ,3
+9,2021-12-27 16:59:09,Beowulf,Classics,3fb69f34e178d494,38.35,2,In stock ,3
+10,2021-12-27 16:59:09,The Hound of the Baskervilles (Sherlock Holmes #5),Classics,6587f46697fc4443,14.82,2,In stock ,4
+11,2021-12-27 16:59:09,The Story of Hong Gildong,Classics,32d035df92ab9080,43.19,4,In stock ,1
+12,2021-12-27 16:59:09,Gone with the Wind,Classics,23310ce84d3c9f85,32.49,3,In stock ,4
+13,2021-12-27 16:59:09,Wuthering Heights,Classics,5a7ff9aaa3168878,17.73,3,In stock ,3
+14,2021-12-27 16:59:09,Animal Farm,Classics,1451b55e5e56bb89,57.22,3,In stock ,4
+15,2021-12-27 16:59:09,The Secret Garden,Classics,abbb492978ff656d,15.08,4,In stock ,5
+16,2021-12-27 16:59:09,Of Mice and Men,Classics,39592d9d72e717c4,47.11,2,In stock ,1
+17,2021-12-27 16:59:09,And Then There Were None,Classics,cfe350b20d23b02b,35.01,2,In stock ,3
+18,2021-12-27 16:59:09,The Little Prince,Classics,1aeca7d078d57deb,45.42,2,In stock ,1
+19,2021-12-27 16:59:09,Three Wishes (River of Time: California #1),Science Fiction,460f97a346b44bac,44.18,2,In stock ,1
+20,2021-12-27 16:59:09,The Project,Science Fiction,790ef197c8f236f5,10.65,1,In stock ,15
+21,2021-12-27 16:59:09,"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",Science Fiction,9270575728a13a61,43.30,4,In stock ,15
+22,2021-12-27 16:59:09,Join,Science Fiction,18ad3ed896c7ce05,35.67,5,In stock ,16
+23,2021-12-27 16:59:09,Mesaerion: The Best Science Fiction Stories 1800-1849,Science Fiction,e30f54cea9b38190,37.59,1,In stock ,19
+24,2021-12-27 16:59:09,The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),Science Fiction,0e92ccf1bd39e68f,10.92,1,In stock ,3
+25,2021-12-27 16:59:09,"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",Science Fiction,4b3f4f151c99f472,33.26,2,In stock ,3
+26,2021-12-27 16:59:09,Ready Player One,Science Fiction,2ef5dc7e278e562a,19.07,4,In stock ,3
+27,2021-12-27 16:59:09,Having the Barbarian's Baby (Ice Planet Barbarians #7.5),Science Fiction,6717a70913b3db79,34.96,4,In stock ,1
+28,2021-12-27 16:59:09,Soft Apocalypse,Science Fiction,2a70769cdc6eb8b8,26.12,2,In stock ,15
+29,2021-12-27 16:59:09,Arena,Science Fiction,2c34f9432069b52b,21.36,4,In stock ,11
+30,2021-12-27 16:59:09,Sleeping Giants (Themis Files #1),Science Fiction,f435aa99d864077d,48.74,1,In stock ,11
+31,2021-12-27 16:59:09,Do Androids Dream of Electric Sheep? (Blade Runner #1),Science Fiction,98330e431e56a9ea,51.48,1,In stock ,3
+32,2021-12-27 16:59:09,The Last Girl (The Dominion Trilogy #1),Science Fiction,16c71736dae78764,36.26,2,In stock ,1
+33,2021-12-27 16:59:09,Foundation (Foundation (Publication Order) #1),Science Fiction,3fc124f59f3068e4,32.42,1,In stock ,5
+34,2021-12-27 16:59:09,Dune (Dune #1),Science Fiction,36d5884d44484277,54.86,1,In stock ,3
+35,2021-12-27 16:59:09,The Long Haul (Diary of a Wimpy Kid #9),Humor,f21effc079a2b38a,44.07,1,In stock ,14
+36,2021-12-27 16:59:09,Naked,Humor,54aeeb4610d3ae08,31.69,3,In stock ,3
+37,2021-12-27 16:59:09,I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction,Humor,b8a8ff84233f0570,25.98,4,In stock ,14
+38,2021-12-27 16:59:09,"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",Humor,fbb21a2f71f4d981,14.75,5,In stock ,14
+39,2021-12-27 16:59:09,Dress Your Family in Corduroy and Denim,Humor,7e9068872228c474,43.68,3,In stock ,9
+40,2021-12-27 16:59:09,When You Are Engulfed in Flames,Humor,dab0196cd5fc8e5e,30.89,5,In stock ,3
+41,2021-12-27 16:59:09,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",Humor,190fbebbf798c31a,55.50,5,In stock ,3
+42,2021-12-27 16:59:09,Old School (Diary of a Wimpy Kid #10),Humor,02b74068fa98d8a4,11.83,5,In stock ,14
+43,2021-12-27 16:59:09,Toddlers Are A**holes: It's Not Your Fault,Humor,4242cc3d0437db12,25.55,1,In stock ,7
+44,2021-12-27 16:59:09,Holidays on Ice,Humor,0cb4856be3694a57,51.07,2,In stock ,3
+45,2021-12-27 16:59:09,The Dirty Little Secrets of Getting Your Dream Job,Business,2597b5a345f45e1b,33.34,4,In stock ,19
+46,2021-12-27 16:59:09,Made to Stick: Why Some Ideas Survive and Others Die,Business,b96fc7a0ea7d4b45,38.85,5,In stock ,14
+47,2021-12-27 16:59:09,The Third Wave: An Entrepreneurâs Vision of the Future,Business,3bebf34ee9330cbd,12.61,5,In stock ,15
+48,2021-12-27 16:59:09,The Art of Startup Fundraising,Business,1c584f82a7a1c4f0,21.00,3,In stock ,11
+49,2021-12-27 16:59:09,The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,Business,a2308a936e898d48,36.91,1,In stock ,8
+50,2021-12-27 16:59:09,The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,Business,56e4f9eab2e8e674,27.55,3,In stock ,15
+51,2021-12-27 16:59:09,Rework,Business,8e9dd8431170c09e,44.88,2,In stock ,3
+52,2021-12-27 16:59:09,"Rich Dad, Poor Dad",Business,8486f61aa81a3daa,51.74,1,In stock ,7
+53,2021-12-27 16:59:09,Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two,Business,8976d9161c027142,43.14,1,In stock ,12
+54,2021-12-27 16:59:09,The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,Business,70c7c3ca7f9b2728,33.92,3,In stock ,3
+55,2021-12-27 16:59:09,Born for This: How to Find the Work You Were Meant to Do,Business,816180220e8cb419,21.59,5,In stock ,11
+56,2021-12-27 16:59:09,Shoe Dog: A Memoir by the Creator of NIKE,Business,0e0dcc3339602b28,23.99,2,In stock ,15
