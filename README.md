@@ -36,12 +36,14 @@ A table will be created containing the following information:
 | Columns | Description |
 | --- | --- |
 | scrap_date | the date the scrapping was held |
-| upc | a unique identifier for each title |
-| book_name | the title of the book |
+| book_title | the title of the book |
 | book_category | the book's category page |
+| book_upc | a unique universal identifier for each title |
 | book_price | price excl. tax |
-| book_rating | from 1 to 5 |
-| book_stock_availability | quantity available |
+| book_stars | rating from 1 to 5 |
+| book_in_stock | is it available? |
+| nr_available | how many books are in stock |
+
 
 ### 🛠Process
 
@@ -55,14 +57,19 @@ Tools used:
 
 **STEP 01:**  use a browser to understand the tags structure for the website, and find where the data we need is embedded within the code.
 
-**STEP 02:** scrap the catalogue pages to get a dataset of titles available with their respective categories.
+**STEP 02:** scrap the catalogue pages to get a dataset of titles available (urls) with their respective categories.
 
-**STEP 03:** use the list of titles created in step 02 to access the books pages to scrap for the remaining information needed.
+**STEP 03:** use the list of urls created in step 02 to access the books pages to scrap for the remaining information needed.
 
-**STEP 04: join** the tables on step 02 and step 03, using the title of the books as a key.
+**STEP 04: join** create a table with the scrapped data.
 
-**STEP 05:** export the data to *.csv and deliver it to Coffee&Cookies.
+**STEP 05:** transform and clean the data, and export it to *.csv and deliver it to Coffee&Cookies.
 
 ### ⏩ Inputs
 
 I will use [https://books.toscrape.com](https://books.toscrape.com) as a source for the data. It is a website made for scrapping and can be used free of charge.
+
+### 🚀 Next Steps
+- Add Pagination feature for categories that have more than 20 books. The ones requested by Coffee&Cookies didn't, but it would be nice to have it ready.
+- Add an interactive filter to select the categories.
+- Send this to production for a better usage, possibly using streamlit and heroku.
